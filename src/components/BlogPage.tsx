@@ -220,10 +220,6 @@ const BlogPage: React.FC = () => {
                   </p>
                 </div>
                 
-                <p className="text-slate-300 mb-4 leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                </p>
-                
                 <h3 className="text-xl font-semibold text-white mb-3 mt-8">Pontos Principais</h3>
                 <ul className="list-disc list-inside space-y-2 text-slate-300 mb-6">
                   <li>Entender sua condição é o primeiro passo para a cura</li>
